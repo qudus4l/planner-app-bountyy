@@ -13,7 +13,7 @@ The News Catcher API is a powerful news aggregation service that collects news a
 
 The News Widget in the Planner App utilizes the News Catcher API to fetch real-time news headlines and presents them in a user-friendly format. It is built with React and Axios, enabling seamless communication with the API and dynamic rendering of headlines. By leveraging the News Catcher API's extensive news collection, the widget enhances the user experience by providing up-to-date and relevant news information within the Planner App interface.
 
-Using the News Widget is straightforward. Once added to the planner, it automatically fetches the latest news headlines and displays them in a user-friendly format. The widget shows a maximum of three headlines, ensuring a concise overview of the current news. Each headline serves as a clickable link, allowing users to access the full article directly if they want to read more details.
+Using the News Widget is straightforward. Simply click on add widgets and select the news widget to add it to the planner. It automatically fetches the latest news headlines and displays them in a user-friendly format. The widget shows a maximum of three headlines, ensuring a concise overview of the current news. Each headline serves as a clickable link, allowing users to access the full article directly if they want to read more details.
 
 The News Widget not only enhances productivity but also keeps users informed and updated on the latest events and developments. By integrating news functionality directly into the planner app, users can efficiently manage their tasks and stay connected with the world at the same time.
 
